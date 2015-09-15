@@ -2,8 +2,32 @@
   width:300px;
   float:left;
   font-style:italic;
+  background-color:#ffb90f;
+  padding:4px;
+  border: 2px solid blue;
+  margin:10px;
 }
 
 img{
   float:center;
+}
+
+.columns1{
+  width:300px;
+  float:left;
+  font-style:italic;
+  background-color:#feffa3;
+  padding:4px;
+  border: 2px solid blue;
+  margin:10px;
+}
+
+.columns2{
+  width:300px;
+  float:left;
+  font-style:italic;
+  background-color:#a1ffca;
+  padding:4px;
+  border: 2px solid blue;
+  margin:10px;
 }

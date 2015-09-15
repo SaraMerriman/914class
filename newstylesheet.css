@@ -12,6 +12,8 @@ img{
   text-align:center;
   color:green;
   font-family:helvetica;
+  margin-top:50px;
+  margin-bottom:200px;
 }
 
 .nouns{
@@ -27,4 +29,6 @@ img{
 .about{
   color:purple;
   font-style:italic;
+  margin-top:50px;
+  margin-bottom:200px;
 }
