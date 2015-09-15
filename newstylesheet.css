@@ -1,0 +1,30 @@
+.intro{
+  font-style:bold;
+  color:blue;
+}
+
+img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.timely{
+  text-align:center;
+  color:green;
+  font-family:helvetica;
+}
+
+.nouns{
+  font-style:bold;
+  color:yellow;
+}
+
+.new{
+  color:red;
+  font-style:italic;
+}
+
+.about{
+  color:purple;
+  font-style:italic;
+}

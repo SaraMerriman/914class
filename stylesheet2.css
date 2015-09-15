@@ -1,0 +1,10 @@
+.sidebar{
+  width:25%;
+  float:left;
+  background-color:#00918b;
+  color:#ea9123;
+}
+
+.images{
+  float:right;
+}
